@@ -1,0 +1,22 @@
+*****
+1*Cadastrar um usuario,ou entrar com usuario: admin e senha:admin
+2*Cadastrar um cliente,muito importante lembrar do nome do cliente pois na hora do pedido vai ser necessario,
+caso não lembre clique em BUSCAR CLIENTE
+3*Em Buscar cliente/produto/pedido/item para pedido e possivel filtrar pelo nome
+4*Para realizar um pedido deve se existir um item pre cadastrado,clicando em NOVO PEDIDO voce estara cadastrando o item
+deve-se informar apenas um ID para o item,o produto desejado,que ja deve existir e a quantidade,
+e depois clica em salvar que o valor sera automaticamente calculado
+5*Apos isso devera ser realizado o vinculo entre o item e o pedido,clicando em VINCULAR PEDIDO,informe um ID para o pedido
+(guardar esse numero pois sera necessario para o pagamento,tambem e possivel consultar em buscar pedido caso esqueça)
+6*Informar o nome do cliente(esse nome deve estar previamente cadastrado),o usuario pode ser informado qualquer um
+7*Informar a data e o total sera calculado automaticamente
+8*Em pagamento basta apenas informar o numero do pedido,pois o valor ja sera calculado
+
+**********TELA DE PEDIDO E ITENS
+1* Para selecionar um item para o pedido esse item deve estar previamente cadastrado
+2* O valor do item e calculado de acordo com a quantidade informada * o valor do produto cadastrado na tela de cadastro de produtos
+3* Deve-se escolher todos os itens para o pedido antes de clicar em vincular pedido
+4* Dentro da tela de vinculo so sera possivel realizar o pedido para um cliente previamente cadastrado na tela de cadastro de clientes
+
+****SINCRONIZA,nÃO FUNCIONA
+
